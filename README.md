@@ -52,4 +52,4 @@ Released under [MIT](/LICENSE).
 
 <!-- TODO remove this line when creating a project from this template -->
 
-This project is based on the template from the React CLI. I have added my own docs, the deploy flow and made very minor changes to the app.
+This project is based on the template from the React CLI. I have added my own docs, the deploy flow and made very minor changes to the app. 
